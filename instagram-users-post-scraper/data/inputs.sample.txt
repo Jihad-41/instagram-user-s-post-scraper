@@ -1,0 +1,7 @@
+txt# List of Instagram usernames to scrape, one per line.
+# Lines starting with '#' are ignored.
+# Optionally, you can specify a per-line max posts value as: username,max_posts
+
+nature_lover,50
+instagram
+natgeo
